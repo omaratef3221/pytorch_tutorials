@@ -1,5 +1,5 @@
 # PyTorch Tutorials
-![Under Construction](https://media.giphy.com/media/QuvNC7vVRzUJq/source.gif)  
+![Under Construction](https://internationaleventvenue.com/wp-content/uploads/2020/09/under-construction-gif-11.gif)  
 *Image credit: [Giphy](https://giphy.com/)*
 
 ## Under Construction :construction:
