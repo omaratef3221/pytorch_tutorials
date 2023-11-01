@@ -12,6 +12,17 @@ Brief description of what this project aims to do.
 
 Here we will have multiple PyTorch exercises that will help beginners of AI to get into programming and building models with PyTorch! The exercises will include tabular classification, NLP, Images, Transformers, Transformers LLM and more will be added.
 
+## Contents
+
+- [Ex1 - Tabular classification](https://github.com/omaratef3221/pytorch_tutorials/blob/main/Ex_1_Tabular_Classification.ipynb)
+- [Ex2 - Basic CNN Image classification](https://github.com/omaratef3221/pytorch_tutorials/blob/main/Ex_2_image_multi_class_classification.ipynb)
+- [Ex3 - Image Classification with Pretrained]
+- [Ex4 - Audio Classification]
+- [Ex5 - Multiclass Text Classification normal]
+- [Ex6 - Text Binary classification with Bert](https://github.com/omaratef3221/pytorch_tutorials/blob/main/Ex_6_Bert_Binary_classification.ipynb)
+- [Ex7 - Image captioning]
+- [Ex8 - LLM fine-tuning for question answering]
+
 ## How to Contribute
 
 We welcome contributions from the open-source community.
