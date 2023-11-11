@@ -20,8 +20,11 @@ This Repo will be updated frequently and I will add more and more exercises ever
 
 ## How to Contribute
 
-We welcome contributions from the open-source community.
+We welcome contributions!
 
 ## Contact
 
-For queries, feel free to contact the maintainer at omaratef3221@gmail.com or on Twitter at @OmarAtef3221
+For queries, feel free to contact the maintainer at 
+
+📧 Email: omaratef3221@gmail.com
+🐦 Twitter: @OmarAtef3221
