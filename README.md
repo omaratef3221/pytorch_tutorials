@@ -10,7 +10,7 @@ This Repo will be updated frequently and I will add more and more exercises ever
 
 ## Contents
 
-- [Ex1 - Tabular classification](https://github.com/omaratef3221/pytorch_tutorials/blob/main/Ex_1_Tabular_Classification.ipynb)
+- [Ex1 - Tabular classification](https://github.com/omaratef3221/pytorch_tutorials/blob/main/Ex_1_Tabular_Classification.ipynb)[English Explanation Video](https://youtu.be/L0upXKBO0SE)
 - [Ex2 - Basic CNN Image classification](https://github.com/omaratef3221/pytorch_tutorials/blob/main/Ex_2_Image_multiclass_classification.ipynb)
 - [Ex3 - Image Classification with Pretrained](https://github.com/omaratef3221/pytorch_tutorials/blob/main/Ex_3_Image_Classification_Pretrained.ipynb) 
 - [Ex4 - Audio Classification](https://github.com/omaratef3221/pytorch_tutorials/blob/main/Ex_5_Text_Classification_Transformers.ipynb)
