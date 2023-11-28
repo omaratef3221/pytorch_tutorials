@@ -18,6 +18,8 @@ This Repo will be updated frequently and I will add more and more exercises ever
 - [Ex6 - Image captioning Notebook] (Comming soon!)
 - [Ex7 - LLM fine-tuning for question answering Notebook] (Comming soon!)
 
+
+
 Interested in Practicing TensorFlow? [Tensorflow Notebook Exercises](https://github.com/omaratef3221/tensorflow_tutorials)
 
 ## How to Contribute
