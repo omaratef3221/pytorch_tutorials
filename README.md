@@ -11,7 +11,7 @@ This Repo will be updated frequently and I will add more and more exercises ever
 ## Contents
 
 - [Ex1 - Tabular classification Notebook](https://github.com/omaratef3221/pytorch_tutorials/blob/main/Ex_1_Tabular_Classification.ipynb) | [English Explanation Video](https://youtu.be/L0upXKBO0SE)
-- [Ex2 - Basic CNN Image classification Notebook](https://github.com/omaratef3221/pytorch_tutorials/blob/main/Ex_2_Image_multiclass_classification.ipynb)
+- [Ex2 - Basic CNN Image classification Notebook](https://github.com/omaratef3221/pytorch_tutorials/blob/main/Ex_2_Image_multiclass_classification.ipynb) | [English Explaination Video](https://youtu.be/NvC035A4LUw)
 - [Ex3 - Image Classification with Pretrained Notebook](https://github.com/omaratef3221/pytorch_tutorials/blob/main/Ex_3_Image_Classification_Pretrained.ipynb) 
 - [Ex4 - Audio Classification Notebook](https://github.com/omaratef3221/pytorch_tutorials/blob/main/Ex_5_Text_Classification_Transformers.ipynb)
 - [Ex5 - Text Binary classification with Bert Notebook](https://github.com/omaratef3221/pytorch_tutorials/blob/main/Ex_6_Bert_Binary_classification.ipynb)
