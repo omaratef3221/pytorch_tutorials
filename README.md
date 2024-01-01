@@ -13,8 +13,8 @@ Dive into our extensive list of exercises, each accompanied by explanatory video
 - 📈 [Ex1 - Tabular Classification Notebook](https://github.com/omaratef3221/pytorch_tutorials/blob/main/Ex_1_Tabular_Classification.ipynb) | [🎥 English Explanation Video](https://youtu.be/L0upXKBO0SE)
 - 🖼️ [Ex2 - Basic CNN Image Classification Notebook](https://github.com/omaratef3221/pytorch_tutorials/blob/main/Ex_2_Image_multiclass_classification.ipynb) | [🎥 English Explanation Video](https://youtu.be/NvC035A4LUw)
 - 🌄 [Ex3 - Image Classification with Pretrained Models Notebook](https://github.com/omaratef3221/pytorch_tutorials/blob/main/Ex_3_Image_Classification_Pretrained.ipynb)
-- 🎵 [Ex4 - Audio Classification Notebook](https://github.com/omaratef3221/pytorch_tutorials/blob/main/Ex_5_Text_Classification_Transformers.ipynb)
-- 📝 [Ex5 - Text Binary Classification with Bert Notebook](https://github.com/omaratef3221/pytorch_tutorials/blob/main/Ex_6_Bert_Binary_classification.ipynb)
+- 🎵 [Ex4 - Audio Classification Notebook](https://github.com/omaratef3221/pytorch_tutorials/blob/main/Ex_4_Audio_Classification.ipynb)
+- 📝 [Ex5 - Text Binary Classification with Bert Notebook](https://github.com/omaratef3221/pytorch_tutorials/blob/main/Ex_5_Text_Classification_Transformers.ipynb)
 - 🖼️📝 [Ex6 - Image Captioning Notebook] (Coming Soon!)
 - ❓📚 [Ex7 - LLM Fine-Tuning for Question Answering Notebook](Coming Soon!)
 
