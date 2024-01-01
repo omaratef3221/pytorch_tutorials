@@ -1,35 +1,30 @@
-# PyTorch Tutorials
+# 🌟 PyTorch Tutorials
 
+## Overview 📚
+Welcome to this comprehensive repository where we delve into the world of PyTorch through detailed Jupyter IPython Notebooks. If you're starting with PyTorch and grappling with its complexities, you're in the right place!
 
-## Overview
+🔍 **What to Expect**: Each exercise is crafted to clarify intricate aspects of PyTorch, making your learning journey smoother. We're committed to frequent updates with new exercises, so stay tuned for more!
 
-Brief description of what this project aims to do.
+💡 **Your Contribution Matters**: Suggestions, contributions, and issue reporting are highly encouraged to enhance this learning resource.
 
-In this repository, we will have multiple PyTorch Exercises in Jupyter IPython Notebooks explained in detail. Personally, I faced multiple problems when I started using PyTorch, so I decided to write these exercises and explain the things that may seem to be complex in PyTorch to help others.
-This Repo will be updated frequently and I will add more and more exercises every time I can. Feel free to contribute or raise issues if anything is not clear.
+## Contents 📖
+Dive into our extensive list of exercises, each accompanied by explanatory videos:
 
-## Contents
+- 📈 [Ex1 - Tabular Classification Notebook](https://github.com/omaratef3221/pytorch_tutorials/blob/main/Ex_1_Tabular_Classification.ipynb) | [🎥 English Explanation Video](https://youtu.be/L0upXKBO0SE)
+- 🖼️ [Ex2 - Basic CNN Image Classification Notebook](https://github.com/omaratef3221/pytorch_tutorials/blob/main/Ex_2_Image_multiclass_classification.ipynb) | [🎥 English Explanation Video](https://youtu.be/NvC035A4LUw)
+- 🌄 [Ex3 - Image Classification with Pretrained Models Notebook](https://github.com/omaratef3221/pytorch_tutorials/blob/main/Ex_3_Image_Classification_Pretrained.ipynb)
+- 🎵 [Ex4 - Audio Classification Notebook](https://github.com/omaratef3221/pytorch_tutorials/blob/main/Ex_5_Text_Classification_Transformers.ipynb)
+- 📝 [Ex5 - Text Binary Classification with Bert Notebook](https://github.com/omaratef3221/pytorch_tutorials/blob/main/Ex_6_Bert_Binary_classification.ipynb)
+- 🖼️📝 [Ex6 - Image Captioning Notebook](https://github.com/omaratef3221/pytorch_tutorials) (Coming Soon!)
+- ❓📚 [Ex7 - LLM Fine-Tuning for Question Answering Notebook](https://github.com/omaratef3221/pytorch_tutorials) (Coming Soon!)
 
-- [Ex1 - Tabular classification Notebook](https://github.com/omaratef3221/pytorch_tutorials/blob/main/Ex_1_Tabular_Classification.ipynb) | [English Explanation Video](https://youtu.be/L0upXKBO0SE)
-- [Ex2 - Basic CNN Image classification Notebook](https://github.com/omaratef3221/pytorch_tutorials/blob/main/Ex_2_Image_multiclass_classification.ipynb) | [English Explaination Video](https://youtu.be/NvC035A4LUw)
-- [Ex3 - Image Classification with Pretrained Notebook](https://github.com/omaratef3221/pytorch_tutorials/blob/main/Ex_3_Image_Classification_Pretrained.ipynb) 
-- [Ex4 - Audio Classification Notebook](https://github.com/omaratef3221/pytorch_tutorials/blob/main/Ex_5_Text_Classification_Transformers.ipynb)
-- [Ex5 - Text Binary classification with Bert Notebook](https://github.com/omaratef3221/pytorch_tutorials/blob/main/Ex_6_Bert_Binary_classification.ipynb)
-- [Ex6 - Image captioning Notebook] (Comming soon!)
-- [Ex7 - LLM fine-tuning for question answering Notebook] (Comming soon!)
+🔗 **TensorFlow Enthusiast?** Check out [Tensorflow Notebook Exercises](https://github.com/omaratef3221/tensorflow_tutorials) for more practice!
 
+## How to Contribute 🤝
+We welcome and appreciate contributions of all forms! Whether it's submitting new exercises, improving existing ones, or reporting issues - your input is valuable.
 
+## Contact 📬
+Got queries or feedback? Don't hesitate to reach out!
 
-Interested in Practicing TensorFlow? [Tensorflow Notebook Exercises](https://github.com/omaratef3221/tensorflow_tutorials)
-
-## How to Contribute
-
-We welcome contributions!
-
-## Contact
-
-For queries, feel free to contact the maintainer at 
-
-📧 Email: omaratef3221@gmail.com
-
-🐦 Twitter: @OmarAtef3221
+- 📧 Email: [omaratef3221@gmail.com](mailto:omaratef3221@gmail.com)
+- 🐦 Twitter: [@OmarAtef3221](https://twitter.com/OmarAtef3221)
