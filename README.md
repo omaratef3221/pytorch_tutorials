@@ -15,7 +15,8 @@ Dive into our extensive list of exercises, each accompanied by explanatory video
 - 🌄 [Ex3 - Image Classification with Pretrained Models Notebook](https://github.com/omaratef3221/pytorch_tutorials/blob/main/Ex_3_Image_Classification_Pretrained.ipynb)
 - 🎵 [Ex4 - Audio Classification Notebook](https://github.com/omaratef3221/pytorch_tutorials/blob/main/Ex_4_Audio_Classification.ipynb)
 - 📝 [Ex5 - Text Binary Classification with Bert Notebook](https://github.com/omaratef3221/pytorch_tutorials/blob/main/Ex_5_Text_Classification_Transformers.ipynb)
-- 🖼️📝 [Ex6 - Image Captioning Notebook] (Coming Soon!)
+
+More exercises will come soon and I will try to keep this repo updated
 
 🔗 **TensorFlow Enthusiast?** Check out [Tensorflow Notebook Exercises](https://github.com/omaratef3221/tensorflow_tutorials) for more practice!
 
